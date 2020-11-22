@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "632378604842",
+    "firebase_url": "https://first-chat-9f02b.firebaseio.com",
+    "project_id": "first-chat-9f02b",
+    "storage_bucket": "first-chat-9f02b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632378604842:android:630edb1672e2be6a96b253",
+        "android_client_info": {
+          "package_name": "ru.netology.First_Chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632378604842-8mqpk3enq94ee564hbs37v2qo3nf0ek7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCju1gRQqjrVpeXnWC3DHSaET0yMnr0pcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632378604842-8mqpk3enq94ee564hbs37v2qo3nf0ek7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
